@@ -36,7 +36,7 @@ This notebook provides an example of how isolation forests can be used to detect
 
 ## Special Note
 
-Please be sure to cite our software and our data.  To cite our data please see our DOI landing page here: https://cddis.nasa.gov/Data_and_Derived_Products/SLR/slr_data_monthly_npt.html
+Please be sure to cite our software and our data.  To cite our data please see our DOI landing page here: https://www.earthdata.nasa.gov/data/catalog/cddis-slr-mnthly-npt-data-1
 
 ## References
 
